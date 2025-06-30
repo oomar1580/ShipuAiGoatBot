@@ -22,13 +22,13 @@ const aspectRatioMap = {
 module.exports = {
  config: {
  name: "fastx",
- author: "Vincenzo | marincross",
+ author: "OPU SENSE",
  version: "1.2",
  cooldowns: 5,
  role: 0,
  shortDescription: "Generate AI images",
  longDescription: "Generates 4 images from a prompt and combines them in a grid.",
- category: "𝗔𝗜 & 𝗚𝗣𝗧",
+ category: "𝗔𝗜",
  guide: "{p}fastx <prompt> [--ar <ratio>]"
  },
 
