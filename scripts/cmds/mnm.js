@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "mnm",
     version: "1.0",
-    author: "Chitron Bhattacharjee",
+    author: "opi",
     countDown: 10,
     role: 0,
     shortDescription: {
