@@ -2,7 +2,7 @@ module.exports = {
  config: {
  name: "gif",
  version: "1.0",
- author: "Chitron Bhattacharjee",
+ author: "opu",
  countDown: 10,
  role: 0,
  shortDescription: {
@@ -11,7 +11,7 @@ module.exports = {
  longDescription: {
  en: "Search and send random GIFs based on keywords"
  },
- category: "fun",
+ category: "𝗙𝗨𝗡 & 𝗚𝗔𝗠𝗘",
  guide: {
  en: "{pn} [keyword] - Example: {pn} hugging"
  }
@@ -19,7 +19,7 @@ module.exports = {
 
  langs: {
  en: {
- searching: "╔═══❖•°•°•°❖═══╗\n 𝐒𝐡𝐢𝐏𝐮 𝐀𝐢 ✨\n 🔎 %1 gif\n╚═══❖•°•°•°❖═══╝"
+ searching: "╔═══❖•°•°•°❖═══╗\n \n 🔎 %1 gif\n╚═══❖•°•°•°❖═══╝"
  }
  },
 
