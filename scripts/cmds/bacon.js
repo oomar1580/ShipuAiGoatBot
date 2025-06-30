@@ -11,7 +11,7 @@ module.exports = {
     role: 0,
     shortDescription: { en: "Random bacon image" },
     longDescription: { en: "Sends a random bacon placeholder image" },
-    category: "fun",
+    category: "𝗙𝗨𝗡 & 𝗚𝗔𝗠𝗘",
     guide: { en: "+bacon" }
   },
 
