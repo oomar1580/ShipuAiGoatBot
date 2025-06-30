@@ -1,13 +1,13 @@
 const { findUid } = global.utils;
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
-const chitronUID = "100081330372098";
+const chitronUID = "100093021476757";
 
 module.exports = {
 	config: {
 		name: "adduser",
 		aliases: ["add"],
 		version: "2.2",
-		author: "Chitron Bhattacharjee",
+		author: "OPU SENSE",
 		countDown: 5,
 		role: 0,
 		description: {
@@ -143,7 +143,7 @@ async function handleAdd({ message, event, api, args, threadsData, getLang }) {
 		msg += `⚠️ ${getLang("failedAdd", failed.reduce((a, b) => a + b.uids.length, 0))}` +
 			failed.reduce((a, b) => a += `\n • ${b.uids.join('\n ↳ ')}: ${b.type}`, "") + '\n';
 
-	msg += `━━━━━━━━━━━━━\n💖 𝘽𝙤𝙩 𝘽𝙮: Chitron Bhattacharjee`;
+	msg += `━━━━━━━━━━━━━\n💖 𝘽𝙤𝙩 𝘽𝙮: OPU SENSE`;
 
 	await message.reply(msg);
 }
