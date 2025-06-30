@@ -9,12 +9,12 @@ module.exports = {
  config: {
  name: "clips",
  version: "1.0",
- author: "Chitron Bhattacharjee",
+ author: "opu",
  countDown: 5,
  role: 0,
  shortDescription: { en: "Search Pexels videos" },
  longDescription: { en: "Search Pexels videos, view thumbnails, and download by replying video number" },
- category: "media",
+ category: "𝗠𝗘𝗗𝗜𝗔",
  guide: { en: "{pn} <search keyword>\nThen reply 1-20 to download video." }
  },
 
