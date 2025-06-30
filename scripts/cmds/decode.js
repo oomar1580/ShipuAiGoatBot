@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "decode",
     version: "1.0",
-    author: "Chitron Bhattacharjee",
+    author: "opu",
     countDown: 3,
     role: 0,
     shortDescription: {
