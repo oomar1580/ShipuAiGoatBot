@@ -4,7 +4,7 @@ module.exports = {
  config: {
  name: "meme",
  version: "1.0",
- author: "Chitron Bhattacharjee",
+ author: "opu",
  role: 0,
  category: "fun",
  shortDescription: {
