@@ -16,7 +16,7 @@ module.exports = {
  longDescription: {
  en: "Fetch and send random anime-style images of various categories from the waifu.pics API, with real-time feedback through message reactions."
  },
- category: "anime",
+ category: "𝗔𝗜",
  guide: {
  en: "{prefix}anime [category]\n\nAvailable categories: waifu, neko, shinobu, megumin, bully, cuddle, cry, hug, awoo, kiss, lick, pat, smug, bonk, yeet, blush, smile, wave, highfive, handhold, nom, bite, glomp, slap, kill, kick, happy, wink, poke, dance, cringe"
  }
