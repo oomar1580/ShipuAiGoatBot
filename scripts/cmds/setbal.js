@@ -2,7 +2,7 @@ module.exports = {
  config: {
  name: "setbal",
  version: "1.0",
- author: "Chitron Bhattacharjee",
+ author: "opu",
  role: 2, // Only bot owner
  shortDescription: {
  en: "Set user's money"
