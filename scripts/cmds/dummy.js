@@ -6,12 +6,12 @@ module.exports = {
  config: {
  name: "dummy",
  version: "1.1",
- author: "Chitron Bhattacharjee",
+ author: "opu",
  countDown: 5,
  role: 0,
  shortDescription: { en: "Generate dummy text image with optional background color" },
  longDescription: { en: "Usage: +dummy text [backgroundColor]. Background color supports hex (#ff0000) or color names." },
- category: "fun",
+ category: "𝗙𝗨𝗡 & 𝗚𝗔𝗠𝗘",
  guide: { en: "+dummy Hello world red\n+dummy Welcome #00ff00" }
  },
 
