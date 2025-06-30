@@ -6,12 +6,12 @@ module.exports = {
  config: {
  name: "catmeme",
  version: "1.0",
- author: "Chitron Bhattacharjee",
+ author: "opu",
  countDown: 5,
  role: 0,
  shortDescription: { en: "Generate a cat image with your text" },
  longDescription: { en: "Get a cute cat image with custom text on it." },
- category: "fun",
+ category: "𝗙𝗨𝗡 & 𝗚𝗔𝗠𝗘",
  guide: { en: "+catmeme Your funny text here" }
  },
 
