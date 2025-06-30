@@ -13,12 +13,12 @@ module.exports = {
  config: {
  name: "speak",
  version: "1.0",
- author: "Chitron Bhattacharjee",
+ author: "opu",
  countDown: 5,
  role: 0,
  shortDescription: { en: "Text-to-speech using voice models" },
  longDescription: { en: "Generate speech from text using selected voice models (no API key needed)" },
- category: "media",
+ category: "𝗠𝗘𝗗𝗜𝗔",
  guide: {
  en: `+speak Hello world
 +speak Hello there -m2
