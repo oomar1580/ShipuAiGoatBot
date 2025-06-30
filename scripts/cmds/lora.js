@@ -14,7 +14,7 @@ module.exports = {
     description: {
       en: "Flux",
     },
-    category: "FLUX",
+    category: "𝗔𝗜",
     guide: {
       en: "   {pn}flux [prompt]"
     },
