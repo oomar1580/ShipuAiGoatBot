@@ -6,7 +6,7 @@ module.exports = {
  config: {
  name: "pbin",
  version: "1.0",
- author: "Chitron Bhattacharjee",
+ author: "opu",
  countDown: 10,
  role: 2,
  shortDescription: { en: "Create paste on Pistebin" },
