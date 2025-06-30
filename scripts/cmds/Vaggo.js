@@ -3,7 +3,7 @@ module.exports = {
     name: "vaggo",
     aliases: ["bhobisshot", "fate"],
     version: "2.0",
-    author: "Chitron Bhattacharjee",
+    author: "OPU SENSE",
     role: 0,
     category: "fun",
     shortDescription: {
