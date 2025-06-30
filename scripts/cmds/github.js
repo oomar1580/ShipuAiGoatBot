@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "github",
     version: "1.0",
-    author: "Chitron Bhattacharjee",
+    author: "opu sense",
     countDown: 5,
     role: 0,
     shortDescription: {
