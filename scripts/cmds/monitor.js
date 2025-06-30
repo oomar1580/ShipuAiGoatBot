@@ -4,7 +4,7 @@ module.exports = {
  config: {
  name: "monitor",
  version: "1.1.0",
- author: "Chitron Bhattacharjee",
+ author: "opu",
  countDown: 5,
  role: 0,
  shortDescription: {
