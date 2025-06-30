@@ -12,7 +12,7 @@ const baseApiUrl = async () => {
  author: "dipto",
  countDown: 5,
  role: 0,
- category: "media",
+ category: "𝗠𝗘𝗗𝗜𝗔",
  description: "convert image/video into Imgur link",
  category: "tools",
  usages: "reply [image, video]",
