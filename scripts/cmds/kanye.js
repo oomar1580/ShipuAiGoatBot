@@ -3,12 +3,12 @@ module.exports = {
   config: {
     name: "kanye",
     version: "1.0",
-    author: "Chitron Bhattacharjee",
+    author: "opu",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Random Kanye West quote" },
     longDescription: { en: "Get a random Kanye West quote" },
-    category: "fun",
+    category: "𝗙𝗨𝗡 & 𝗚𝗔𝗠𝗘",
     guide: { en: "+kanye" }
   },
 
