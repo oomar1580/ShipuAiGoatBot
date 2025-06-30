@@ -6,12 +6,12 @@ module.exports = {
  config: {
  name: "cat",
  version: "1.0",
- author: "Chitron Bhattacharjee",
+ author: "opu",
  countDown: 5,
  role: 0,
  shortDescription: { en: "random cat image" },
  longDescription: { en: "Sends a random cat image" },
- category: "fun",
+ category: "𝗙𝗨𝗡 & 𝗚𝗔𝗠𝗘",
  guide: { en: "+cat" }
  },
 
