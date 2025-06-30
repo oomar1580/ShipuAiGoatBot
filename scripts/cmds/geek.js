@@ -3,12 +3,12 @@ module.exports = {
   config: {
     name: "geek",
     version: "1.0",
-    author: "Chitron Bhattacharjee",
+    author: "opu",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Geek joke" },
     longDescription: { en: "Programming-related joke" },
-    category: "fun",
+    category: "𝗙𝗨𝗡 & 𝗚𝗔𝗠𝗘",
     guide: { en: "+geek" }
   },
 
