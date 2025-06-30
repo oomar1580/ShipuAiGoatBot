@@ -6,13 +6,13 @@ module.exports = {
  config: {
  name: "gen",
  aliases: [],
- author: "Mahi--",
+ author: "opu",
  version: "1.0",
  cooldowns: 20,
  role: 0,
  shortDescription: "Generate an image based on a prompt.",
  longDescription: "Generates an image using the provided prompt.",
- category: "𝗔𝗜 & 𝗚𝗣𝗧",
+ category: "𝗔𝗜",
  guide: "{p}gen <prompt>",
  },
  onStart: async function ({ message, args, api, event }) {
