@@ -3,12 +3,12 @@ module.exports = {
   config: {
     name: "forismatic",
     version: "1.0",
-    author: "Chitron Bhattacharjee",
+    author: "opu",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Philosophical quote" },
     longDescription: { en: "Get a philosophical quote from Forismatic" },
-    category: "fun",
+    category: "𝗙𝗨𝗡 & 𝗚𝗔𝗠𝗘",
     guide: { en: "+forismatic" }
   },
 
