@@ -3,7 +3,7 @@ module.exports = {
   config: {
     name: "advice",
     version: "1.0",
-    author: "Chitron Bhattacharjee",
+    author: "opu",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Random advice" },
