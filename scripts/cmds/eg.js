@@ -9,7 +9,7 @@ module.exports = {
 	config: {
 		name: "commandName", // Name of command, it must be unique to identify with other commands
 		version: "1.1", // Version of command
-		author: "Chitron Bhattacharjee", // Author name must not be changed
+		author: "opu", // Author name must not be changed
 		countDown: 5, // Time to wait before executing command again (seconds)
 		role: 0, // Role of user to use this command (0: normal user, 1: admin box chat, 2: owner bot)
 		shortDescription: {
