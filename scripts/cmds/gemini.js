@@ -7,7 +7,7 @@ module.exports = {
  name: "gemini",
  aliases: ["g"],
  version: "1.2",
- author: "Chitron Bhattacharjee",
+ author: "OPU SENSE",
  countDown: 5,
  role: 0,
  shortDescription: {
@@ -16,7 +16,7 @@ module.exports = {
  longDescription: {
  en: "Ask Gemini anything with optional image input"
  },
- category: "ai",
+ category: "𝗔𝗜",
  guide: {
  en: "{pn} your question\n{pn} (reply to image with question)"
  }
