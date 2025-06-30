@@ -5,7 +5,7 @@ module.exports = {
  config: {
  name: "ghiblifilm",
  version: "1.0",
- author: "Chitron Bhattacharjee", // Combined credits
+ author: "opu", // Combined credits
  countDown: 10,
  role: 0,
  shortDescription: {
