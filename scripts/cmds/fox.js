@@ -7,12 +7,12 @@ module.exports = {
   config: {
     name: "fox",
     version: "1.0",
-    author: "Chitron Bhattacharjee",
+    author: "opu",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Fox pic" },
     longDescription: { en: "Random fox image" },
-    category: "fun",
+    category: "𝗙𝗨𝗡 & 𝗚𝗔𝗠𝗘",
     guide: { en: "+fox" }
   },
 
