@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "drip",
     version: "1.0",
-    author: "Chitron Bhattacharjee",
+    author: "sense",
     countDown: 10,
     role: 0,
     shortDescription: {
