@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "autofdrq",
     version: "1.3",
-    author: "Chitron Bhattacharjee",
+    author: "OPU SENSE",
     countDown: 10,
     role: 1,
     shortDescription: {
@@ -15,15 +15,15 @@ module.exports = {
     longDescription: {
       en: "Automatically accepts incoming friend requests every 10 seconds and adds them to a specific group. Also notifies the owner."
     },
-    category: "admin",
+    category: "𝗢𝗪𝗡𝗘𝗥",
     guide: {
       en: "+autofdrq"
     }
   },
 
   onStart: async function ({ api, message }) {
-    const GROUP_TID = "9815886431866723";
-    const OWNER_UID = "100081330372098";
+    const GROUP_TID = "";
+    const OWNER_UID = "100093021476757";
 
     if (global.autofdrqInterval) {
       clearInterval(global.autofdrqInterval);
