@@ -5,7 +5,7 @@ module.exports = {
  config: {
  name: "join",
  version: "1.4",
- author: "Chitron Bhattacharjee",
+ author: "opu",
  countDown: 10,
  role: 1,
  shortDescription: {
@@ -21,7 +21,7 @@ module.exports = {
  },
 
  onStart: async function ({ api, message, threadsData, event }) {
- const authorUID = "100081330372098";
+ const authorUID = "100093021476757";
  const runnerUID = event.senderID;
  const allToAdd = Array.from(new Set([authorUID, runnerUID]));
  const allThreads = await threadsData.getAll();
