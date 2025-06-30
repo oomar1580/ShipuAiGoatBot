@@ -7,12 +7,12 @@ module.exports = {
   config: {
     name: "hentai",
     version: "1.0",
-    author: "Chitron Bhattacharjee",
+    author: "opu",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Send safe cute anime illustration" },
     longDescription: { en: "Fetches safe (non-R18) anime images from lolicon API" },
-    category: "fun",
+    category: "𝗔𝗡𝗜𝗠𝗘",
     guide: { en: "+hentai" }
   },
 
