@@ -5,12 +5,12 @@ module.exports = {
 		name: "waifu",
 		aliases: ["waifu, neko"],
 		version: "1.0",
-		author: "NISAN",
+		author: "opu",
 		countDown: 5,
 		role: 0,
 		shortDescription: "get random waifu",
 		longDescription: "",
-		category: "anime",
+		category: "𝗔𝗜",
 		guide: "{pn} {{<name>}}"
 	},
 
