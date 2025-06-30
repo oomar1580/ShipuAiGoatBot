@@ -5,8 +5,8 @@ const path = require("path");
 module.exports = {
   config: {
     name: "clown",
-    version: "1.0",
-    author: "Chitron Bhattacharjee",
+    version :"1.0",
+    author: "opu",
     countDown: 5,
     role: 0,
     shortDescription: {
