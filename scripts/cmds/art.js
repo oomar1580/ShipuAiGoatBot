@@ -4,7 +4,7 @@ module.exports = {
  config: {
  name: "art",
  role: 0,
- author: "OtinXSandip",
+ author: "opu",
  countDown: 5,
  longDescription: "Art images",
  category: "𝗔𝗜 & 𝗚𝗣𝗧",
